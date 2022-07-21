@@ -1,10 +1,10 @@
 ###         ✨ Olá, me chamo Fernando Pereira de Andrade ✨ 
-
+<!--
 - 🌱 Atualmente estudando desenvolvimento web FullStack... 
-- 👯 Compartilhar conhecimento com outros Devs ... <!-- - 🤔   -->
+- 👯 Compartilhar conhecimento com outros Devs ... 🤔  
 - 📫 pupygreen@gmail.com...
 - 💬 https://coding-in-dreams.com
-- 👋 https://fernandopdea.github.io
+- 👋 https://fernandopdea.github.io -->
 
 #### <p align="center">Estudante de engenharia da computação em 'Unicsul' e full stack developer em 'Trybe'...</p>
 
