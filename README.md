@@ -3,8 +3,8 @@
 - 🌱 Atualmente estudando desenvolvimento web FullStack... 
 - 👯 Compartilhar conhecimento com outros Devs ... <!-- - 🤔   -->
 - 📫 pupygreen@gmail.com...
-- 💬https://coding-in-dreams.com
-- 👋https://fernandopdea.github.io
+- 💬 https://coding-in-dreams.com
+- 👋 https://fernandopdea.github.io
 
 ## <p style="font-size: 10px" >Estudante de engenharia da computação em 'Unicsul' e full stack developer em 'Trybe'...</p>
 
