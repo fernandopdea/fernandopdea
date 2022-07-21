@@ -1,6 +1,4 @@
-### Olá, me chamo Fernanado Pereira de Andrade 👋
-
-**fernandopdea/fernandopdea** ✨ ✨
+### ✨ ✨ Olá, me chamo Fernanado Pereira de Andrade 👋
 
 - 🌱 Atualmente estudando desenvolvimento web FullStack... 
 - 👯 Compartilhar conhecimento com outros Devs ... <!-- - 🤔💬   -->
