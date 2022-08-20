@@ -6,9 +6,9 @@
 - 💬 https://coding-in-dreams.com
 - 👋 https://fernandopdea.github.io -->
 
-#### <p align="center">Estudante de engenharia da computação em 'Unicsul' e full stack developer em 'Trybe'...</p>
+#### <p align="left">Estudante de engenharia da computação em 'Unicsul' e full stack developer em 'Trybe'...</p>
 
- <div align="center">
+ <div align="left">
   <a href="https://github.com/fernandopdea">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=fernandopdea&show_icons=true&theme=merko&include_all_commits=true&count_private=true&icon_color=(255,%20159,%200)"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandopdea&layout=compact&langs_count=7&theme=merko"/>
