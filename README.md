@@ -1,4 +1,4 @@
-###         ✨ Olá, me chamo Fernando Pereira de Andrade ✨ 
+###         ✨ Fernando Pereira de Andrade ✨ 
 <!--
 - 🌱 Atualmente estudando desenvolvimento web FullStack... 
 - 👯 Compartilhar conhecimento com outros Devs ... 🤔  
