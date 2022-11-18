@@ -7,8 +7,9 @@
 - 👋 https://fernandopdea.github.io -->
 
 #### <p>Estudante de engenharia da computação em 'Unicsul' e full stack developer em 'Trybe'...</p>
-####  <strong>Meu portfólio => https://fernandopdea.github.io/</strong>
-####      <span>Meu site pessoal => https://coding-in-dreams.com/</span>
+#### <strong>Meu portfólio => https://fernandopdea.github.io/</strong>
+#### <span>Meu site pessoal => https://coding-in-dreams.com/</span>
+#### <>Meu linKedin => https://www.linkedin.com/in/fernando-pereira-de-andrade-dev/</span>
 
  <div align="left">
   <a href="https://github.com/fernandopdea">
