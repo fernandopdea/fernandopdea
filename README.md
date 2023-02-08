@@ -6,7 +6,7 @@
 - 💬 https://coding-in-dreams.com
 - 👋 https://fernandopdea.github.io -->
 
-#### <p>Full Stack Developer e estudante de engenharia da computação.</p>
+#### <p>Full Stack Developer and computer engineering student.</p>
 #### <strong>Meu portfólio => https://fernandopdea.github.io/</strong>
 #### <span>Meu site pessoal => https://coding-in-dreams.com/</span>
 #### <span>Meu linKedin => https://www.linkedin.com/in/fernando-pereira-de-andrade-dev/</span>
